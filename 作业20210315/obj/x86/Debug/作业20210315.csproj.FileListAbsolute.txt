@@ -1,0 +1,5 @@
+C:\Users\95285\Desktop\课堂案例\作业20210315\作业20210315\bin\Debug\作业20210315.exe
+C:\Users\95285\Desktop\课堂案例\作业20210315\作业20210315\bin\Debug\作业20210315.pdb
+C:\Users\95285\Desktop\课堂案例\作业20210315\作业20210315\obj\x86\Debug\作业20210315.exe
+C:\Users\95285\Desktop\课堂案例\作业20210315\作业20210315\obj\x86\Debug\作业20210315.pdb
+C:\Users\95285\Desktop\课堂案例\作业20210315\作业20210315\obj\x86\Debug\作业20210315.csprojResolveAssemblyReference.cache
