@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,6 +40,24 @@ namespace 作业20210315
                     Console.WriteLine("错啦！只支持加减乘除的运算！");
                 }
 
+            }
+            public static void counter1(string x1, string y1, string z) 
+            {
+                int i;
+                string n;
+                if (z == "+") { Console.WriteLine("结果为：{0}", x1 + y1); }
+                else if (z == "-") {
+
+                    for (i = 0; i <y1.Length;i++ )
+                    {
+                        n = y1.Substring(i, 1);
+                        x1 = x1.Replace(n, " ");
+                    }
+                    Console.WriteLine("结果为：{0}", x1);
+                }
+            
+            
+            
             }
             public static void judge(int x, int y) 
             {
